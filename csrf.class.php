@@ -1,5 +1,4 @@
-
-	
+<?
 	class csrf {
 
 		public static function init() {
