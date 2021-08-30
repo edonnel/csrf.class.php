@@ -12,7 +12,7 @@
 				'msg'       => 'Unknown CSRF Error',
 			);
 
-			self::init_csrf();
+			self::init();
 
 			if (!$csrf_token) {
 
